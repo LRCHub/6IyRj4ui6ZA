@@ -1,0 +1,73 @@
+# BE:FIRST – Boom Boom Back
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.45] 誰かが言う "どこへ行く？"
+[00:12.78] 知りたきゃ Come on, follow me
+[00:15.25] 生きる理由 仲間とルーツ
+[00:17.88] 変わりはしない
+[00:21.38] 
+[00:19.15] Ya know my steez
+[00:20.14] 時代の追い風も
+[00:21.49] I know I can
+[00:22.59] 自分で吹かせよう Booming
+[00:25.06] (Word up) あの日見てた景色のその彼方へと
+[00:37.56] 
+[00:28.94] 遠い夢だと
+[00:31.01] ねぇどうぞ笑ってよ
+[00:33.63] もう叶え方なら知っているから
+[00:38.06] 変わらない為変わっていくだけ
+[00:42.96] まだ知らない僕を
+[00:45.75] Turn it up 探し出せ
+[00:53.25] 
+[00:47.41] Ba-boom, boom, back
+[00:49.86] Singing from the East side to the West side
+[00:52.11] And you'd better watch your back
+[00:54.80] この世界 Playground, do what you like
+[00:57.87] 描く どんな夢すらも Deja vu
+[01:01.39] 頂上だけ目掛け 遊び尽くせ
+[01:04.18] 全て掴むまで We never go back
+[01:15.68] 
+[01:07.92] 涙の分 夢を見る
+[01:10.53] まだまだ Never enough
+[01:12.37] 成功の理由？ 今どんな気分？
+[01:14.76] それどころか道の途中
+[01:19.76] 
+[01:17.14] わかってない (Tell them the truth)
+[01:19.17] Yes, I got the shine (Be the one like this, like that)
+[01:22.31] 振り返る様な余裕はない
+[01:24.36] 響かせろよ Do or die
+[01:31.86] 
+[01:26.48] 遠い夢だと
+[01:28.77] ねぇどうぞ笑ってよ
+[01:31.15] もう叶え方なら知っているから
+[01:35.53] 変わらない為変わっていくだけ
+[01:40.54] まだ見えない道を
+[01:43.31] To get a break 切り拓け
+[01:52.81] 
+[01:45.08] Ba-boom, boom, back
+[01:47.44] Singing from the East side to the West side
+[01:49.80] And you'd better watch your back
+[01:52.34] この世界 Playground, do what you like
+[01:55.48] 描く どんな夢すらも Deja vu
+[01:58.81] 頂上だけ目掛け 遊び尽くせ
+[02:01.97] 全て掴むまで We never go back
+[02:13.47] 
+[02:06.16] カケラでも良い
+[02:08.56] 不確かでも良い
+[02:10.33] 信じるには充分さ
+[02:14.45] 常識なんて
+[02:16.93] 興味が無いね
+[02:19.52] もう誰も止められやしない
+[02:25.52] 
+[02:23.45] Ba-boom, boom, back
+[02:25.80] Singing from the East side to the West side
+[02:28.10] And you'd better watch your back
+[02:30.81] この世界 Playground, do what you like
+[02:33.93] 描く どんな夢すらも Dejavu
+[02:37.34] 頂上だけ目掛け 遊び尽くせ
+[02:40.49] 全て掴むまで We never go back
+[02:51.99] 
+[03:01.48] We never go back
+```
